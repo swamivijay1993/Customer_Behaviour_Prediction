@@ -1,0 +1,983 @@
+Order ID,Customer Name,Order Date,Order Priority,Product Name,Unit Price,Quantity
+3,Muhammed MacIntyre,10/13/2010,Low,citrus fruit,38.94,6
+293,Barry French,10/1/2012,High,tropical fruit,208.16,49
+293,Barry French,10/1/2012,High,whole milk,8.69,27
+483,Clay Rozendal,7/10/2011,High,pip fruit,195.99,30
+515,Carlos Soltero,8/28/2010,Not Specified,other vegetables,21.78,19
+515,Carlos Soltero,8/28/2010,Not Specified,whole milk,6.64,21
+613,Carl Jackson,6/17/2011,High,rolls/buns,7.3,12
+613,Carl Jackson,6/17/2011,High,other vegetables,42.76,22
+643,Monica Federle,3/24/2011,High,pot plants,138.14,21
+678,Dorothy Badders,2/26/2010,Low,whole milk,4.98,44
+807,Neola Schneider,11/23/2010,Medium,tropical fruit,4.28,45
+807,Neola Schneider,11/23/2010,Medium,citrus fruit,3.95,32
+868,Carlos Daly,6/8/2012,Not Specified,beef,21.78,32
+868,Carlos Daly,6/8/2012,Not Specified,frankfurter,47.98,31
+933,Claudia Miner,8/4/2012,Not Specified,chicken,5.28,15
+995,Neola Schneider,5/30/2011,Medium,butter,39.89,46
+998,Allen Rosenblatt,11/25/2009,Not Specified,fruit/vegetable juice,15.74,16
+1154,Sylvia Foulston,2/14/2012,Critical,packaged fruit/vegetables,100.98,44
+1154,Sylvia Foulston,2/14/2012,Critical,chocolate,71.37,11
+1344,Jim Radford,4/15/2012,Low,specialty bar,65.99,15
+1344,Jim Radford,4/15/2012,Low,other vegetables,155.99,18
+1412,Carlos Soltero,3/12/2010,Not Specified,butter milk,3.69,13
+1412,Carlos Soltero,3/12/2010,Not Specified,whole milk,4.71,21
+1539,Carl Ludwig,3/9/2011,Low,tropical fruit,15.99,33
+1539,Carl Ludwig,3/9/2011,Low,tropical fruit,4.89,38
+1540,Don Miller,8/4/2012,High,bottled water,2.88,30
+1702,Annie Cyprus,5/6/2011,High,yogurt,2.84,23
+1761,Carl Ludwig,12/23/2010,High,sausage,449.99,25
+1792,Carlos Soltero,11/8/2010,Low,other vegetables,13.48,28
+2275,Grant Carroll,10/21/2012,Not Specified,brown bread,6.08,49
+2277,Don Miller,1/1/2011,Not Specified,yogurt,5.98,10
+2277,Don Miller,1/1/2011,Not Specified,hamburger meat,40.99,21
+2532,Alan Barnes,10/10/2011,High,root vegetables,7.31,39
+2532,Alan Barnes,10/10/2011,High,pork,20.99,24
+2631,Jack Garza,9/23/2010,Low,beef,40.96,27
+2757,Julia West,7/19/2011,Critical,pastry,95.95,39
+2791,Eugene Barchas,10/9/2009,High,fruit/vegetable juice,3.89,47
+2791,Eugene Barchas,10/9/2009,High,canned beer,120.98,49
+2791,Eugene Barchas,10/9/2009,High,root vegetables,30.98,18
+2976,Edward Hooks,12/9/2010,Not Specified,citrus fruit,500.98,30
+3232,Brad Eason,10/8/2012,Critical,sausage,7.84,5
+3524,Nicole Hansen,5/2/2012,High,tropical fruit,18.97,21
+3908,Dorothy Wardle,3/8/2010,Medium,berries,115.99,8
+4132,Aaron Bergman,5/28/2011,Not Specified,canned beer,2.88,5
+4612,Jim Radford,9/19/2010,Medium,butter milk,4.48,9
+4676,Annie Cyprus,8/31/2011,High,coffee,125.99,11
+4676,Annie Cyprus,8/31/2011,High,pastry,3.75,50
+4676,Annie Cyprus,8/31/2011,High,rolls/buns,12.28,3
+4676,Annie Cyprus,8/31/2011,High,misc. beverages,155.99,30
+5284,Annie Cyprus,7/8/2011,Not Specified,root vegetables,8.69,7
+5316,Clay Rozendal,1/30/2009,Critical,sausage,31.78,42
+5409,Don Jones,1/8/2012,Low,canned beer,3.98,11
+5506,Beth Thompson,11/7/2010,Critical,ham,5.88,22
+5569,Frank Price,4/29/2010,Not Specified,turkey,9.65,12
+5607,Michelle Lonsdale,12/31/2011,Not Specified,whole milk,7.99,8
+5894,Ann Chong,8/12/2009,High,whole milk,58.1,7
+5894,Ann Chong,8/12/2009,High,packaged fruit/vegetables,80.48,3
+5925,Joy Bell,11/12/2011,Low,rolls/buns,92.23,44
+5925,Joy Bell,11/12/2011,Low,ham,85.99,25
+6016,Skye Norling,1/20/2012,High,rolls/buns,11.48,19
+6116,Barry Weirich,3/20/2009,Medium,other vegetables,1637.53,6
+6182,Grant Carroll,7/21/2012,Low,sausage,6.48,40
+6182,Grant Carroll,7/21/2012,Low,sausage,6.48,18
+6535,Adrian Hane,6/12/2012,Critical,frankfurter,28.15,11
+6884,Skye Norling,1/15/2009,Low,rolls/buns,4.98,41
+6884,Skye Norling,1/15/2009,Low,whole milk,6.35,47
+6916,Andrew Gjertsen,6/4/2010,Low,curd cheese,10.9,40
+6980,Ralph Knight,2/18/2010,Not Specified,red/blush wine,7.3,18
+6982,Dorothy Wardle,11/16/2011,Not Specified,sausage,39.48,32
+6982,Dorothy Wardle,11/16/2011,Not Specified,tropical fruit,100.98,5
+6982,Dorothy Wardle,11/16/2011,Not Specified,red/blush wine,19.98,41
+7110,Grant Carroll,8/7/2011,Low,whole milk,276.2,22
+7430,Barry Weirich,6/8/2010,Medium,frankfurter,15.67,50
+7906,Beth Paige,10/17/2009,Medium,whole milk,25.98,37
+8391,Sylvia Foulston,8/28/2011,High,frozen potato products,300.98,4
+8419,Nicole Hansen,9/29/2011,Critical,other vegetables,19.98,19
+8419,Nicole Hansen,9/29/2011,Critical,citrus fruit,6.48,24
+8833,Nicole Hansen,5/4/2012,Low,flour,80.98,40
+8995,Beth Paige,5/17/2011,High,sugar,1.88,5
+8995,Beth Paige,5/17/2011,High,frozen meals,6.48,41
+8995,Beth Paige,5/17/2011,High,chocolate,102.3,35
+8995,Beth Paige,5/17/2011,High,root vegetables,6.48,42
+8995,Beth Paige,5/17/2011,High,root vegetables,1.89,46
+9126,Sylvia Foulston,11/17/2009,Medium,herbs,62.05,47
+9127,Bryan Davis,10/10/2011,Not Specified,bottled water,279.48,7
+9509,Joy Bell,10/7/2012,Not Specified,sausage,320.98,36
+9509,Joy Bell,10/7/2012,Not Specified,coffee,18.97,5
+9509,Joy Bell,10/7/2012,Not Specified,pork,48.91,32
+9763,Alan Barnes,8/13/2011,Medium,berries,4.13,44
+9927,Grant Carroll,8/16/2011,High,soda,140.98,32
+9927,Grant Carroll,8/16/2011,High,berries,218.08,44
+9927,Grant Carroll,8/16/2011,High,fruit/vegetable juice,50.98,34
+10022,Delfina Latchford,3/4/2009,Low,citrus fruit,10.14,1
+10437,Don Jones,8/18/2009,Critical,pork,15.99,50
+10499,Doug Bickford,11/16/2010,Not Specified,detergent,262.11,29
+10535,Doug Bickford,5/27/2011,Low,grapes,33.98,25
+10535,Doug Bickford,5/27/2011,Low,sausage,1.76,46
+10789,Jamie Kunitz,8/23/2010,Not Specified,chicken,19.84,15
+10791,Anthony Johnson,8/19/2011,Not Specified,whole milk,19.98,20
+10945,Ralph Knight,1/3/2012,Medium,citrus fruit,95.99,14
+11137,Allen Rosenblatt,11/29/2012,High,soda,111.03,48
+11202,Barry Weirich,3/17/2012,Medium,sausage,43.41,8
+11456,Doug Bickford,4/12/2010,Low,frankfurter,105.34,15
+11460,Carl Jackson,8/24/2010,High,sausage,3.69,30
+11495,Brendan Dodson,7/4/2011,High,soda,146.34,6
+11911,Edward Hooks,11/10/2010,Critical,rolls/buns,15.22,25
+11941,Jamie Kunitz,6/24/2010,Critical,beef,15.7,4
+11941,Jamie Kunitz,6/24/2010,Critical,whole milk,179.29,26
+12096,Michelle Lonsdale,9/19/2012,Medium,processed cheese,200.99,46
+12096,Michelle Lonsdale,9/19/2012,Medium,tropical fruit,194.3,23
+12289,Brendan Dodson,12/24/2011,Low,frankfurter,120.97,25
+12352,Hunter Glantz,3/23/2012,Medium,packaged fruit/vegetables,5.81,5
+12419,Sylvia Foulston,10/15/2011,Critical,whole milk,1938.02,12
+12485,Eugene Barchas,8/7/2010,Critical,berries,226.67,24
+12544,Jim Radford,3/3/2009,Low,citrus fruit,2.08,34
+12704,Carlos Soltero,2/9/2010,Low,tropical fruit,499.99,44
+12704,Carlos Soltero,2/9/2010,Low,hamburger meat,20.98,28
+12771,Carlos Soltero,1/17/2009,Critical,hamburger meat,30.53,40
+12771,Carlos Soltero,1/17/2009,Critical,whole milk,1.68,46
+12929,Jim Radford,8/30/2010,Critical,fish,270.98,19
+12929,Jim Radford,8/30/2010,Critical,frankfurter,4.48,20
+13280,Grant Carroll,9/11/2009,High,packaged fruit/vegetables,10.9,40
+13280,Grant Carroll,9/11/2009,High,pastry,7.99,49
+13313,Skye Norling,7/16/2009,Not Specified,other vegetables,21.66,47
+13346,Doug Bickford,11/15/2012,Low,misc. beverages,6.48,44
+13702,Grant Carroll,9/10/2011,Low,frankfurter,35.44,6
+13795,Muhammed MacIntyre,4/10/2011,Not Specified,sparkling wine,15.99,30
+13795,Muhammed MacIntyre,4/10/2011,Not Specified,specialty bar,11.34,23
+13795,Muhammed MacIntyre,4/10/2011,Not Specified,sausage,35.44,37
+14116,Doug Bickford,10/9/2011,High,curd cheese,30.98,1
+14116,Doug Bickford,10/9/2011,High,frankfurter,34.54,42
+14372,Beth Thompson,10/23/2012,Critical,whole milk,170.98,34
+14726,Ralph Knight,1/8/2012,Low,newspapers,20.95,15
+14819,Carl Jackson,1/25/2010,Not Specified,berries,207.48,48
+14819,Carl Jackson,1/25/2010,Not Specified,curd,58.14,27
+15106,Dorothy Badders,1/27/2011,Not Specified,tropical fruit,6.64,42
+15106,Dorothy Badders,1/27/2011,Not Specified,soda,145.45,39
+15106,Dorothy Badders,1/27/2011,Not Specified,rolls/buns,2.21,35
+15108,Delfina Latchford,8/27/2009,High,canned beer,40.99,50
+15205,Julia West,3/17/2011,Critical,canned beer,243.98,18
+15205,Julia West,3/17/2011,Critical,frankfurter,39.98,42
+15591,Brad Eason,6/6/2012,Critical,other vegetables,12.58,31
+15907,Thomas Seio,4/11/2011,High,whole milk,48.58,36
+15907,Thomas Seio,4/11/2011,High,whole milk,105.98,36
+15907,Thomas Seio,4/11/2011,High,citrus fruit,7.04,4
+15937,Monica Federle,11/6/2012,Low,frankfurter,9.78,32
+15937,Monica Federle,11/6/2012,Low,frankfurter,12.22,17
+16039,Michelle Lonsdale,5/16/2012,High,butter milk,43.98,3
+16193,Frank Price,4/9/2012,Not Specified,hamburger meat,34.76,8
+16193,Frank Price,4/9/2012,Not Specified,pasta,55.99,29
+16423,Bryan Davis,8/5/2012,Medium,other vegetables,6.48,19
+16451,Don Jones,7/22/2009,Not Specified,sausage,30.56,9
+16545,Carlos Soltero,5/9/2010,Not Specified,rolls/buns,5.16,10
+16545,Carlos Soltero,5/9/2010,Not Specified,grapes,3.68,1
+16547,Nicole Hansen,2/18/2009,Not Specified,root vegetables,355.98,30
+16547,Nicole Hansen,2/18/2009,Not Specified,coffee,218.75,8
+16706,Beth Thompson,6/27/2012,High,popcorn,41.47,47
+16706,Beth Thompson,6/27/2012,High,whole milk,2.78,6
+16706,Beth Thompson,6/27/2012,High,tropical fruit,155.99,49
+16741,Nicole Hansen,9/30/2010,Medium,beef,22.84,6
+16932,Carlos Soltero,4/15/2010,Critical,whole milk,5.78,25
+16932,Carlos Soltero,4/15/2010,Critical,frankfurter,6.7,20
+17283,Dorothy Badders,9/14/2011,Not Specified,tropical fruit,1360.14,4
+17286,Muhammed MacIntyre,9/21/2010,High,canned beer,270.98,7
+17409,Muhammed MacIntyre,8/17/2010,Not Specified,finished products,20.97,31
+17764,Don Miller,9/16/2009,Low,beverages,22.84,27
+18080,Sylvia Foulston,6/22/2009,High,hamburger meat,180.98,7
+18113,Becky Castell,8/28/2012,Not Specified,whole milk,130.98,27
+18144,Dorothy Wardle,6/7/2011,Critical,finished products,4.28,48
+18144,Dorothy Wardle,6/7/2011,Critical,other vegetables,28.28,8
+18144,Dorothy Wardle,6/7/2011,Critical,ham,55.99,41
+18308,Ann Chong,10/9/2009,Not Specified,other vegetables,3.8,30
+18308,Ann Chong,10/9/2009,Not Specified,curd,30.73,15
+18308,Ann Chong,10/9/2009,Not Specified,bottled beer,125.99,49
+18887,Clay Rozendal,12/5/2010,Not Specified,curd,20.99,9
+19010,Grant Carroll,6/7/2009,Low,whole milk,1270.99,18
+19078,Brendan Dodson,7/27/2009,Critical,whole milk,11.97,21
+19138,Carlos Daly,9/5/2011,Low,dessert,12.28,30
+19655,Alan Barnes,1/11/2009,High,sausage,39.24,31
+19686,Alan Barnes,8/15/2010,Medium,other vegetables,17.98,2
+19686,Alan Barnes,8/15/2010,Medium,ham,12.95,11
+20007,Nicole Hansen,8/5/2009,Not Specified,other vegetables,1.68,49
+20071,Cari Schnelling,9/17/2011,Medium,other vegetables,25.98,31
+20160,Chad Cunningham,10/22/2011,Low,soda,10.31,42
+20263,Bryan Mills,11/14/2009,Medium,herbs,59.78,8
+20263,Bryan Mills,11/14/2009,Medium,frankfurter,20.99,33
+21285,Adrian Hane,7/3/2010,Medium,rolls/buns,1.68,32
+21285,Adrian Hane,7/3/2010,Medium,curd,7.08,47
+21383,Rick Reed,1/30/2009,Low,frankfurter,574.74,31
+21607,Heather Kirkland,3/15/2012,Not Specified,other vegetables,36.55,17
+21636,Fred Wasserman,8/10/2009,Low,dog food,55.99,35
+21889,Becky Castell,4/1/2010,Low,specialty bar,51.75,21
+21889,Becky Castell,4/1/2010,Low,curd,55.29,16
+22151,Beth Thompson,7/31/2010,High,frankfurter,9.65,49
+22342,Claudia Miner,5/29/2009,Low,soda,20.99,13
+22469,Jack Lebron,10/11/2010,High,beef,7.99,44
+22501,Alan Barnes,5/18/2010,High,canned beer,7.64,2
+22532,Carlos Soltero,2/8/2011,Critical,pork,8.85,13
+23264,Clay Rozendal,12/7/2010,Critical,frankfurter,6.48,16
+23264,Clay Rozendal,12/7/2010,Critical,sausage,2.88,27
+23488,Julia West,1/6/2009,Critical,canned beer,880.98,30
+23584,Alan Barnes,3/12/2012,Critical,specialty chocolate,200.97,14
+24007,Joy Bell,8/26/2010,Low,curd,20.89,26
+24007,Joy Bell,8/26/2010,Low,canned beer,11.58,28
+24007,Joy Bell,8/26/2010,Low,whole milk,4.13,42
+24038,Jack Lebron,6/20/2011,High,rolls/buns,2.78,38
+24097,Anthony Johnson,8/4/2010,High,pork,14.48,1
+24097,Anthony Johnson,8/4/2010,High,citrus fruit,99.99,27
+24097,Anthony Johnson,8/4/2010,High,pot plants,4.98,2
+24128,Eugene Barchas,11/23/2010,High,rolls/buns,21.98,13
+24128,Eugene Barchas,11/23/2010,High,butter,195.99,43
+24294,Thomas Seio,8/2/2009,Not Specified,condensed milk,200.97,24
+24387,Bryan Mills,8/10/2011,Critical,sausage,40.97,23
+24387,Bryan Mills,8/10/2011,Critical,whole milk,349.45,17
+24515,Eugene Barchas,5/6/2010,Critical,sausage,80.97,41
+24743,Sylvia Foulston,6/28/2012,Low,beverages,216.6,47
+24743,Sylvia Foulston,6/28/2012,Low,beverages,140.81,26
+24871,Carl Ludwig,3/23/2011,Medium,bottled water,22.72,6
+25318,Julia West,11/19/2011,Critical,newspapers,19.98,22
+25377,Don Jones,11/26/2012,Low,cleaner,1500.97,3
+25634,Mike Pelletier,7/29/2010,Not Specified,sausage,20.95,29
+25634,Mike Pelletier,7/29/2010,Not Specified,newspapers,23.99,26
+25733,Eugene Barchas,5/12/2012,Low,sausage,24.92,24
+25767,Ann Chong,3/3/2012,High,misc. beverages,39.48,7
+25767,Ann Chong,3/3/2012,High,white wine,38.76,15
+26023,Charles McCrossin,8/20/2010,High,sausage,2.47,49
+26051,Annie Cyprus,6/27/2010,Not Specified,meat,33.94,22
+26051,Annie Cyprus,6/27/2010,Not Specified,frankfurter,8.33,31
+26116,Carlos Soltero,10/29/2012,Critical,ice cream,18.97,36
+26182,Doug Bickford,1/16/2010,Not Specified,canned beer,150.98,30
+26272,Carlos Daly,6/29/2012,Low,tropical fruit,140.81,6
+26370,Fred Wasserman,8/8/2011,Not Specified,meat,22.84,12
+26370,Fred Wasserman,8/8/2011,Not Specified,whole milk,34.76,20
+26499,Sylvia Foulston,2/21/2010,Medium,sausage,2.88,11
+26531,Michelle Lonsdale,6/20/2011,Medium,frankfurter,205.99,26
+26567,Sylvia Foulston,9/4/2009,Critical,meat,5.4,8
+26567,Sylvia Foulston,9/4/2009,Critical,root vegetables,8.46,10
+26567,Sylvia Foulston,9/4/2009,Critical,root vegetables,14.98,22
+26567,Sylvia Foulston,9/4/2009,Critical,whole milk,155.99,48
+26854,Charlotte Melton,6/21/2009,Not Specified,citrus fruit,25.38,1
+27109,Barry French,2/8/2012,Critical,citrus fruit,10.97,48
+27111,Heather Kirkland,3/11/2009,High,other vegetables,99.99,11
+27111,Heather Kirkland,3/11/2009,High,citrus fruit,193.17,18
+27111,Heather Kirkland,3/11/2009,High,sausage,20.99,44
+27264,Henry Goldwyn,6/4/2011,Low,frankfurter,19.99,3
+27392,Frank Price,3/2/2012,Low,hard cheese,150.98,37
+27553,Jim Radford,8/12/2011,Medium,cream cheese ,370.98,48
+27553,Jim Radford,8/12/2011,Medium,turkey,179.99,16
+27555,Ralph Knight,9/1/2009,Critical,pork,6.74,32
+27680,Delfina Latchford,1/26/2010,Critical,whole milk,10.89,32
+27680,Delfina Latchford,1/26/2010,Critical,rolls/buns,6.48,19
+27778,Roy Skaria,9/2/2011,Critical,sausage,223.98,1
+27778,Roy Skaria,9/2/2011,Critical,ice cream,140.98,34
+27909,Monica Federle,2/7/2012,Critical,liquor,54.96,1
+27909,Monica Federle,2/7/2012,Critical,pip fruit,1.26,47
+28003,Charles McCrossin,3/19/2011,Critical,root vegetables,4.98,31
+28035,Don Miller,5/8/2011,Not Specified,soda,18.99,19
+28135,Jeremy Lonsdale,9/25/2009,Critical,soda,46.89,37
+28135,Jeremy Lonsdale,9/25/2009,Critical,sausage,12.98,40
+28165,Grant Carroll,7/9/2012,Not Specified,root vegetables,10.91,2
+28289,Carl Ludwig,1/14/2010,High,pork,4.98,31
+28486,Carlos Daly,8/26/2009,High,pork,415.88,2
+28675,Ralph Knight,10/8/2009,Critical,chocolate,65.99,15
+28870,Cindy Schnelling,11/10/2011,High,fruit/vegetable juice,115.99,35
+28871,Claudia Miner,4/15/2012,High,pickled vegetables,5.02,10
+29030,Roy Skaria,1/2/2012,Medium,bottled water,19.84,10
+29095,Delfina Latchford,3/8/2011,Not Specified,frankfurter,6.75,40
+29287,Edward Hooks,7/2/2009,High,tropical fruit,5.74,50
+29287,Edward Hooks,7/2/2009,High,canned beer,270.97,49
+29510,Don Miller,4/15/2011,Critical,root vegetables,260.98,22
+29795,Grant Carroll,11/25/2011,High,meat,387.99,49
+29795,Grant Carroll,11/25/2011,High,frankfurter,160.98,48
+29861,Brad Eason,4/25/2012,Critical,tropical fruit,3.08,11
+30658,Charles McCrossin,3/26/2011,Medium,tropical fruit,499.99,35
+30658,Charles McCrossin,3/26/2011,Medium,citrus fruit,138.14,44
+30947,Charles McCrossin,7/14/2010,Low,hamburger meat,41.94,17
+30947,Charles McCrossin,7/14/2010,Low,chicken,7.31,45
+31077,Bryan Mills,10/23/2010,Not Specified,chicken,65.99,36
+31111,Monica Federle,8/24/2009,Not Specified,frankfurter,7.64,27
+31169,Michelle Lonsdale,6/9/2011,Low,canned beer,40.97,6
+31270,Michelle Lonsdale,11/23/2012,Medium,turkey,299.05,21
+31270,Michelle Lonsdale,11/23/2012,Medium,packaged fruit/vegetables,291.73,3
+31270,Michelle Lonsdale,11/23/2012,Medium,pasta,30.42,5
+31364,Beth Thompson,5/1/2009,Not Specified,citrus fruit,415.88,2
+31393,Cindy Schnelling,5/11/2012,Critical,sausage,19.94,4
+31393,Cindy Schnelling,5/11/2012,Critical,whole milk,3.68,31
+31492,Nicole Hansen,10/15/2010,Critical,canned beer,11.97,26
+31492,Nicole Hansen,10/15/2010,Critical,citrus fruit,29.74,34
+31492,Nicole Hansen,10/15/2010,Critical,liquor (appetizer),95.43,23
+31558,Cari Schnelling,7/23/2011,Low,citrus fruit,300.65,12
+31558,Cari Schnelling,7/23/2011,Low,sausage,45.19,42
+31618,Roy Skaria,7/11/2011,Critical,chicken,28.53,14
+31684,Susan Vittorini,9/16/2012,Critical,hamburger meat,5.68,15
+31684,Susan Vittorini,9/16/2012,Critical,sausage,15.51,28
+31781,Sylvia Foulston,1/16/2009,Medium,beef,5.81,46
+31781,Sylvia Foulston,1/16/2009,Medium,citrus fruit,1.81,41
+32193,Chad Cunningham,10/20/2010,Low,UHT-milk,6.68,4
+32193,Chad Cunningham,10/20/2010,Low,candy,3.93,27
+32229,Carlos Daly,8/30/2010,High,newspapers,150.98,8
+32229,Carlos Daly,8/30/2010,High,beef,1.76,15
+32743,Grant Carroll,5/7/2010,Critical,sausage,177.98,19
+32806,Julia West,6/21/2011,Critical,frankfurter,20.24,8
+33123,Roy Skaria,11/24/2010,Medium,canned beer,150.98,41
+33159,Cindy Schnelling,4/27/2012,Medium,bottled beer,20.99,3
+33186,Don Jones,8/28/2012,Low,onions,65.99,24
+33377,Beth Thompson,7/31/2011,High,tropical fruit,5.18,20
+33377,Beth Thompson,7/31/2011,High,bottled water,17.24,19
+33444,Alan Barnes,10/6/2012,Medium,beef,2.6,11
+33444,Alan Barnes,10/6/2012,Medium,sausage,14.97,8
+33703,Carl Ludwig,2/6/2010,Not Specified,hair spray,60.98,4
+33703,Carl Ludwig,2/6/2010,Not Specified,chicken,29.74,25
+33703,Carl Ludwig,2/6/2010,Not Specified,pork,12.21,4
+33734,Jamie Kunitz,10/17/2011,Not Specified,ice cream,29.14,13
+33888,Heather Kirkland,8/20/2009,Not Specified,meat,11.5,31
+33888,Heather Kirkland,8/20/2009,Not Specified,other vegetables,15.7,3
+33888,Heather Kirkland,8/20/2009,Not Specified,bottled water,225.02,47
+33894,Doug Bickford,6/14/2010,Critical,tropical fruit,9.27,14
+33894,Doug Bickford,6/14/2010,Critical,photo/film,6.84,5
+33894,Doug Bickford,6/14/2010,Critical,sausage,4.98,48
+33894,Doug Bickford,6/14/2010,Critical,grapes,32.98,13
+33922,Carlos Daly,2/27/2010,Not Specified,domestic eggs,500.97,31
+34177,Toby Braunhardt,8/15/2009,High,rolls/buns,2.61,13
+34177,Toby Braunhardt,8/15/2009,High,tropical fruit,7.31,26
+34177,Toby Braunhardt,8/15/2009,High,chicken,20.99,50
+34215,Cari Schnelling,5/14/2011,High,frankfurter,5.34,6
+34246,Thomas Seio,10/7/2010,Critical,berries,4.06,49
+34246,Thomas Seio,10/7/2010,Critical,margarine,99.99,18
+34246,Thomas Seio,10/7/2010,Critical,tropical fruit,11.58,27
+34631,Brendan Dodson,10/23/2009,Not Specified,ham,3.36,5
+34631,Brendan Dodson,10/23/2009,Not Specified,hamburger meat,699.99,19
+35047,Charlotte Melton,6/9/2010,Medium,yogurt,4.71,31
+35266,Beth Thompson,1/10/2011,Not Specified,soda,5.84,39
+35266,Beth Thompson,1/10/2011,Not Specified,yogurt,218.75,28
+35847,Eugene Barchas,1/30/2009,Critical,soda,15.98,23
+36001,Michelle Lonsdale,3/28/2011,Low,bottled water,22.38,45
+36001,Michelle Lonsdale,3/28/2011,Low,sausage,12.95,47
+36134,Grant Carroll,11/22/2010,Low,citrus fruit,155.99,6
+36135,Beth Paige,5/30/2011,Not Specified,shopping bags,35.99,33
+36644,Dorothy Wardle,5/13/2012,High,newspapers,99.99,24
+36646,Muhammed MacIntyre,6/8/2010,Medium,frankfurter,48.91,24
+36707,Charlotte Melton,11/29/2009,Medium,sausage,3.78,47
+37253,Muhammed MacIntyre,9/1/2012,High,frankfurter,26.31,46
+37541,Claudia Miner,2/26/2010,Medium,salt,20.95,3
+37541,Claudia Miner,2/26/2010,Medium,oil,55.98,10
+37541,Claudia Miner,2/26/2010,Medium,curd,80.98,18
+37634,Brendan Dodson,5/21/2012,Medium,other vegetables,12.21,32
+37793,Dorothy Wardle,11/8/2009,Not Specified,citrus fruit,13.9,16
+37860,Mike Pelletier,8/27/2010,Medium,frankfurter,55.5,1
+38884,Edward Hooks,8/17/2012,High,root vegetables,5.28,47
+38884,Edward Hooks,8/17/2012,High,tropical fruit,296.18,20
+39364,Jamie Kunitz,11/9/2012,High,beef,92.23,29
+39364,Jamie Kunitz,11/9/2012,High,berries,1270.99,15
+39457,Julia West,6/2/2011,Critical,canned beer,122.99,40
+39683,Jeremy Lonsdale,8/10/2011,High,whipped/sour cream,18.99,31
+39683,Jeremy Lonsdale,8/10/2011,High,root vegetables,218.08,41
+39683,Jeremy Lonsdale,8/10/2011,High,whole milk,20.24,6
+39683,Jeremy Lonsdale,8/10/2011,High,beef,2.18,30
+39846,Cindy Schnelling,2/27/2009,Low,frozen vegetables,4.98,14
+40036,Heather Kirkland,6/7/2010,Not Specified,rolls/buns,65.99,10
+40067,Alan Barnes,2/17/2012,Low,whole milk,65.99,38
+40132,Hunter Glantz,2/23/2012,Low,whole milk,50.98,26
+40132,Hunter Glantz,2/23/2012,Low,citrus fruit,124.49,36
+40132,Hunter Glantz,2/23/2012,Low,pastry,22.38,16
+40160,Julia West,10/15/2009,Critical,frankfurter,63.94,23
+40518,Carlos Daly,3/13/2009,Critical,tropical fruit,4.13,3
+40804,Barry French,3/12/2010,Medium,frankfurter,122.99,36
+40902,Susan Vittorini,7/7/2009,Low,berries,7.1,25
+41063,Carl Jackson,11/21/2012,Low,rolls/buns,21.38,22
+41063,Carl Jackson,11/21/2012,Low,root vegetables,35.99,10
+41063,Carl Jackson,11/21/2012,Low,yogurt,85.99,26
+41153,Alan Barnes,3/2/2009,Medium,other vegetables,30.73,29
+41184,Charlotte Melton,9/22/2011,High,berries,15.7,7
+41409,Beth Thompson,7/21/2011,Not Specified,berries,11.5,1
+41696,Bryan Mills,7/13/2009,Not Specified,other vegetables,4.48,45
+42209,Alan Barnes,3/29/2010,High,rolls/buns,67.84,5
+42209,Alan Barnes,3/29/2010,High,ham,276.2,31
+42561,Beth Paige,2/6/2010,Low,whole milk,85.99,15
+42564,Mike Pelletier,9/12/2012,Low,tropical fruit,200.98,35
+42695,Delfina Latchford,12/22/2010,Not Specified,bottled water,65.99,12
+42981,Susan Vittorini,5/30/2009,Critical,butter milk,896.99,4
+43109,Dorothy Wardle,12/21/2012,Critical,newspapers,15.01,19
+43109,Dorothy Wardle,12/21/2012,Critical,coffee,20.97,25
+43109,Dorothy Wardle,12/21/2012,Critical,bottled beer,10.01,10
+43203,Susan Vittorini,2/14/2012,Not Specified,onions,6.68,32
+43236,Jamie Kunitz,7/3/2010,Not Specified,hamburger meat,9.77,20
+43267,Fred Wasserman,5/16/2011,Critical,sausage,76.72,17
+43329,Doug Bickford,3/7/2010,Medium,hard cheese,59.98,42
+43330,Fred Wasserman,4/27/2009,Not Specified,sausage,65.99,40
+43364,Susan Vittorini,4/7/2012,High,hamburger meat,23.99,21
+43392,Doug Bickford,12/31/2010,Medium,onions,162.93,39
+43781,Claudia Miner,2/2/2010,Not Specified,coffee,10.94,45
+43781,Claudia Miner,2/2/2010,Not Specified,shopping bags,40.98,21
+44071,Frank Price,4/15/2012,Not Specified,yogurt,5.99,19
+44071,Frank Price,4/15/2012,Not Specified,soda,65.99,20
+44519,Dorothy Wardle,5/19/2010,High,sliced cheese,4.57,48
+44519,Dorothy Wardle,5/19/2010,High,sausage,10.67,34
+44519,Dorothy Wardle,5/19/2010,High,yogurt,442.14,34
+44708,Allen Rosenblatt,7/27/2009,Not Specified,domestic eggs,1.74,15
+44772,Dorothy Wardle,3/31/2009,Not Specified,whole milk,55.99,1
+44839,Julia West,6/11/2012,Critical,meat,33.98,27
+45217,Ralph Knight,9/1/2010,Not Specified,dish cleaner,200.99,40
+45440,Michelle Lonsdale,8/9/2012,Critical,other vegetables,135.99,5
+45766,Charlotte Melton,5/7/2010,High,whole milk,63.94,37
+45766,Charlotte Melton,5/7/2010,High,other vegetables,140.99,28
+45861,Allen Rosenblatt,8/25/2011,Medium,tropical fruit,20.99,39
+45957,Neola Schneider,9/21/2010,Critical,baking powder,39.24,20
+45957,Neola Schneider,9/21/2010,Critical,specialty bar,7.64,19
+46912,Joy Bell,6/30/2012,Low,ice cream,54.74,5
+46980,Monica Federle,1/17/2011,Critical,frankfurter,6.3,34
+47460,Jamie Kunitz,10/10/2010,Critical,canned beer,2.84,12
+47462,Susan Vittorini,6/9/2011,High,bottled water,3.58,43
+47462,Susan Vittorini,6/9/2011,High,other vegetables,5.85,18
+47462,Susan Vittorini,6/9/2011,High,citrus fruit,3.29,41
+47620,Charles McCrossin,6/26/2012,Low,sausage,10.98,27
+47749,Cari Schnelling,3/16/2010,Medium,domestic eggs,8.45,46
+47873,Doug Bickford,11/13/2010,Critical,pork,5.89,8
+47943,Don Miller,11/14/2009,Medium,specialty cheese,4.91,12
+47943,Don Miller,11/14/2009,Medium,pork,15.94,48
+48101,Fred Wasserman,9/12/2011,High,beef,22.84,4
+48295,Bryan Mills,11/23/2009,Medium,other vegetables,204.1,48
+48839,Carlos Daly,7/10/2010,Critical,chicken,98.31,1
+49154,Joy Bell,3/6/2009,Medium,soda,60.98,26
+49921,Claudia Miner,2/17/2011,Low,whole milk,145.45,5
+49921,Claudia Miner,2/17/2011,Low,rolls/buns,12.28,1
+49952,Beth Thompson,11/19/2011,High,bottled beer,107.53,12
+50117,Allen Rosenblatt,6/3/2011,Critical,root vegetables,2.89,17
+50278,Beth Thompson,5/25/2010,High,pastry,20.98,2
+50278,Beth Thompson,5/25/2010,High,berries,100.8,20
+50374,Susan Vittorini,5/30/2009,Not Specified,citrus fruit,120.98,30
+50565,Sylvia Foulston,8/30/2012,High,whole milk,16.98,43
+50688,Joy Bell,12/16/2011,Critical,soda,12.98,50
+50754,Becky Castell,12/9/2009,Not Specified,bottled water,7.99,9
+50914,Carlos Daly,7/3/2012,Critical,tropical fruit,195.99,49
+51169,Cari Schnelling,12/24/2010,High,salty snack,136.98,2
+51938,Jim Radford,5/17/2011,Low,bottled water,125.99,5
+51970,Allen Rosenblatt,1/11/2012,Not Specified,chocolate,115.99,1
+51971,Dorothy Badders,10/3/2011,Not Specified,citrus fruit,32.48,39
+51971,Dorothy Badders,10/3/2011,Not Specified,bottled water,182.55,22
+52193,Mike Pelletier,3/5/2010,Not Specified,onions,2.88,1
+52193,Mike Pelletier,3/5/2010,Not Specified,dessert,2.94,47
+52321,Doug Bickford,11/5/2011,High,beef,12.28,48
+52321,Doug Bickford,11/5/2011,High,rolls/buns,349.45,45
+52386,Susan Vittorini,1/5/2009,High,beef,120.97,6
+52807,Andrew Gjertsen,11/25/2010,Medium,soda,21.98,28
+52929,Muhammed MacIntyre,4/8/2011,High,coffee,15.99,43
+52929,Muhammed MacIntyre,4/8/2011,High,rolls/buns,2.78,19
+52929,Muhammed MacIntyre,4/8/2011,High,pork,6.47,7
+52929,Muhammed MacIntyre,4/8/2011,High,soda,3.93,20
+52964,Jim Radford,3/31/2010,Critical,sausage,136.98,44
+53156,Bryan Davis,3/10/2012,Not Specified,beef,4.13,47
+53511,Anthony Johnson,2/20/2009,Medium,whole milk,5.81,41
+53511,Anthony Johnson,2/20/2009,Medium,pork,9.65,49
+53797,Doug Bickford,10/1/2009,Critical,berries,58.14,10
+53990,Carlos Daly,11/1/2012,Not Specified,sausage,110.99,44
+54083,Don Miller,7/21/2011,High,bottled water,279.81,10
+54274,Don Jones,11/23/2010,Not Specified,tropical fruit,78.65,20
+54276,Chad Cunningham,2/6/2010,Not Specified,herbs,35.44,21
+54528,Ralph Arnett,1/4/2011,Medium,yogurt,11.66,17
+54528,Ralph Arnett,1/4/2011,Medium,Instant food products,10.48,8
+54567,Nicole Hansen,8/2/2009,Medium,specialty chocolate,6.28,31
+54628,Fred Wasserman,6/5/2010,High,coffee,22.98,21
+55298,Bryan Mills,8/2/2009,Critical,bottled beer,300.98,1
+55363,Ralph Arnett,12/28/2010,High,beef,155.06,14
+55366,Doug Bickford,10/10/2012,Critical,whole milk,55.94,7
+55715,Eugene Barchas,4/2/2011,Critical,frankfurter,5.28,28
+55875,Brad Eason,11/25/2009,Critical,frankfurter,7.59,50
+55875,Brad Eason,11/25/2009,Critical,other vegetables,5.98,31
+56453,Dorothy Wardle,4/11/2012,Critical,frankfurter,2550.14,1
+57127,Ralph Knight,2/16/2010,Low,whole milk,55.48,13
+57344,Sylvia Foulston,9/24/2010,High,frankfurter,28.99,47
+57509,Neola Schneider,2/21/2009,Low,other vegetables,4.91,39
+57509,Neola Schneider,2/21/2009,Low,bottled water,259.71,11
+57600,Grant Carroll,11/11/2012,Critical,pork,59.78,32
+57600,Grant Carroll,11/11/2012,Critical,bottled water,4.13,44
+57600,Grant Carroll,11/11/2012,Critical,other vegetables,30.98,12
+58055,Julia West,10/27/2011,Critical,hamburger meat,7.38,26
+58144,Muhammed MacIntyre,12/16/2009,Low,hamburger meat,26.38,29
+58150,Susan Vittorini,5/7/2010,Critical,shopping bags,2.16,24
+58340,Sylvia Foulston,1/8/2011,Medium,whole milk,50.98,36
+58368,Doug Bickford,7/9/2012,High,ice cream,2.08,4
+58368,Doug Bickford,7/9/2012,High,pastry,6.48,39
+58368,Doug Bickford,7/9/2012,High,ham,64.98,5
+58434,Dorothy Badders,3/9/2009,High,frankfurter,19.23,42
+58626,Henry Goldwyn,12/30/2011,High,sausage,300.98,23
+58626,Henry Goldwyn,12/30/2011,High,bottled beer,500.98,21
+58626,Henry Goldwyn,12/30/2011,High,bottled water,45.19,18
+58688,Grant Carroll,3/29/2009,Not Specified,meat,11.97,18
+59045,Chad Cunningham,2/13/2011,Critical,dessert,4.55,30
+59047,Beth Thompson,1/28/2011,Not Specified,other vegetables,28.48,10
+59047,Beth Thompson,1/28/2011,Not Specified,beverages,4.14,26
+59202,Andrew Gjertsen,9/8/2012,Medium,ham,12.53,7
+59202,Andrew Gjertsen,9/8/2012,Medium,specialty bar,5.85,36
+59207,Sylvia Foulston,5/18/2009,Critical,brown bread,280.98,42
+59234,Michelle Lonsdale,7/29/2012,Low,whole milk,177.98,32
+59234,Michelle Lonsdale,7/29/2012,Low,rolls/buns,50.98,16
+59395,Cari Schnelling,4/22/2012,Critical,bottled beer,48.04,20
+59558,Henry Goldwyn,7/16/2012,Not Specified,pet care,2.61,34
+59585,Edward Hooks,9/22/2012,High,citrus fruit,15.99,45
+59651,Brendan Dodson,5/20/2010,Critical,pork,8.04,36
+59651,Brendan Dodson,5/20/2010,Critical,other vegetables,2.23,18
+645,Harold Engle,12/2/2009,High,white wine,12.95,42
+769,Roy French,6/1/2010,Medium,whole milk,115.99,37
+773,Helen Abelman,9/25/2010,Medium,pip fruit,65.99,38
+1187,Guy Armstrong,11/19/2012,Medium,sugar,15.98,14
+2339,Jennifer Braxton,12/14/2010,Low,tropical fruit,140.85,12
+3521,Giulietta Baptist,10/25/2012,Low,root vegetables,4.28,50
+4007,Jack Lebron,6/17/2010,High,soda,56.96,18
+4007,Jack Lebron,6/17/2010,High,whole milk,279.48,1
+4416,Erica Bern,6/29/2012,Low,tropical fruit,165.98,46
+4454,Erica Bern,2/1/2009,Low,white bread,3.08,17
+5153,Helen Abelman,8/25/2011,Critical,brown bread,128.24,37
+5446,Guy Armstrong,6/20/2009,Low,tropical fruit,10.98,42
+8131,Helen Abelman,5/3/2010,Critical,domestic eggs,29.89,24
+8994,Christopher Schild,4/7/2009,Low,coffee,40.48,36
+9027,Roy French,9/2/2011,Low,soda,35.99,30
+9216,Roy French,4/14/2011,Medium,whole milk,180.98,36
+9537,Jennifer Braxton,2/13/2011,Not Specified,bottled beer,150.98,6
+9537,Jennifer Braxton,2/13/2011,Not Specified,pork,3.81,43
+9574,Joy Smith,7/30/2011,Medium,other vegetables,11.5,40
+10435,Evan Minnotte,8/10/2010,Medium,yogurt,22.99,38
+10435,Evan Minnotte,8/10/2010,Medium,sparkling wine,11.66,46
+10851,Jenna Caffey,4/6/2009,High,bottled water,12.88,50
+10852,Harold Engle,10/26/2010,High,citrus fruit,15.28,17
+10852,Harold Engle,10/26/2010,High,hamburger meat,300.98,40
+11269,Harold Engle,5/26/2012,Low,packaged fruit/vegetables,65.99,39
+11269,Harold Engle,5/26/2012,Low,other vegetables,4.91,49
+11269,Harold Engle,5/26/2012,Low,soda,27.75,1
+11362,Hilary Holden,9/10/2012,Low,whole milk,110.98,32
+11362,Hilary Holden,9/10/2012,Low,herbs,2.18,27
+11362,Hilary Holden,9/10/2012,Low,citrus fruit,699.99,9
+11362,Hilary Holden,9/10/2012,Low,misc. beverages,110.99,25
+11968,Christopher Schild,3/16/2011,Low,female sanitary products,3.38,31
+12293,Harold Engle,6/18/2011,High,soda,8.74,31
+12773,Greg Guthrie,1/11/2011,Low,tropical fruit,2.78,6
+12773,Greg Guthrie,1/11/2011,Low,soda,4.14,15
+12773,Greg Guthrie,1/11/2011,Low,white bread,6.48,19
+12773,Greg Guthrie,1/11/2011,Low,coffee,3.28,21
+12934,Guy Armstrong,3/5/2009,Not Specified,tropical fruit,9.78,45
+12934,Guy Armstrong,3/5/2009,Not Specified,pork,3.28,27
+13120,Joy Smith,12/14/2009,Low,citrus fruit,12.95,46
+13120,Joy Smith,12/14/2009,Low,frankfurter,24.92,8
+13604,Erica Bern,2/2/2009,Not Specified,frankfurter,83.1,38
+13604,Erica Bern,2/2/2009,Not Specified,frankfurter,90.98,42
+13927,Dan Reichenbach,8/26/2009,Low,other vegetables,6.48,26
+15044,Erica Bern,3/6/2012,Low,yogurt,39.99,42
+15139,Guy Armstrong,11/19/2009,High,sausage,300.98,17
+15139,Guy Armstrong,11/19/2009,High,whole milk,20.98,33
+15463,Evan Minnotte,7/24/2010,Low,pip fruit,5.98,48
+15618,Joy Smith,8/4/2010,Medium,whole milk,5.28,9
+15618,Joy Smith,8/4/2010,Medium,root vegetables,18.97,44
+15618,Joy Smith,8/4/2010,Medium,onions,65.99,14
+16100,Paul Gonzalez,3/7/2011,Medium,specialty chocolate,4.82,44
+16320,Filia McAdams,10/20/2011,Not Specified,hamburger meat,125.99,17
+16419,Joy Smith,8/4/2009,Not Specified,photo/film,5.78,43
+17090,Greg Guthrie,4/28/2010,Low,rolls/buns,140.98,30
+17090,Greg Guthrie,4/28/2010,Low,canned beer,122.99,26
+17315,Joy Smith,4/22/2009,Low,canned beer,5.43,29
+17376,Joy Smith,12/4/2011,High,other vegetables,28.48,44
+18210,Greg Guthrie,8/6/2010,Not Specified,canned beer,363.25,27
+18210,Greg Guthrie,8/6/2010,Not Specified,curd,2.88,27
+18273,Jack Lebron,9/15/2011,Low,butter,49.99,18
+18788,Joy Smith,10/2/2009,Not Specified,other vegetables,19.99,27
+19042,Evan Minnotte,3/1/2009,Critical,whole milk,40.98,8
+19073,Chuck Magee,6/24/2009,Not Specified,beef,10.64,16
+19073,Chuck Magee,6/24/2009,Not Specified,sausage,2.78,40
+19365,Filia McAdams,1/16/2011,Medium,soda,5.98,29
+19617,Jack Lebron,1/20/2012,Low,fruit/vegetable juice,23.99,38
+19617,Jack Lebron,1/20/2012,Low,rolls/buns,65.99,3
+20033,Jack Lebron,5/21/2010,Critical,pip fruit,499.99,5
+21223,Harold Engle,3/15/2012,Not Specified,frozen vegetables,100.98,3
+21223,Harold Engle,3/15/2012,Not Specified,beverages,51.65,8
+21378,Jack Lebron,8/7/2011,Medium,hamburger meat,28.53,34
+21378,Jack Lebron,8/7/2011,Medium,root vegetables,99.99,17
+21542,Frank Atkinson,5/21/2011,High,canned beer,21.38,18
+21542,Frank Atkinson,5/21/2011,High,frozen vegetables,348.21,43
+22469,Jack Lebron,10/11/2010,High,canned beer,60.98,24
+22469,Jack Lebron,10/11/2010,High,newspapers,290.98,23
+22656,Evan Minnotte,12/22/2010,Not Specified,rolls/buns,30.98,10
+22695,Joy Smith,7/3/2009,Low,hamburger meat,10.06,44
+23076,Dan Reichenbach,5/27/2009,Critical,pip fruit,14.2,50
+24038,Jack Lebron,6/20/2011,High,canned beer,65.99,15
+24067,Frank Atkinson,8/22/2012,High,grapes,5.98,19
+24067,Frank Atkinson,8/22/2012,High,root vegetables,65.99,46
+24388,Erica Bern,1/26/2011,Critical,citrus fruit,549.99,15
+24451,Jack Lebron,12/3/2012,Critical,cling film/bags,68.81,24
+24806,Filia McAdams,9/6/2010,Not Specified,frankfurter,5.18,20
+24965,Jack Lebron,3/29/2011,Low,whole milk,420.98,6
+24965,Jack Lebron,3/29/2011,Low,pork,29.18,42
+25154,Giulietta Baptist,8/20/2010,High,chicken,6.68,16
+25315,Joy Smith,12/2/2010,Low,sausage,225.04,36
+25315,Joy Smith,12/2/2010,Low,specialty bar,2.84,21
+25315,Joy Smith,12/2/2010,Low,whipped/sour cream,31.76,36
+25376,Greg Guthrie,3/26/2011,Critical,root vegetables,6.28,12
+26240,Carlos Soltero,12/19/2009,Critical,rolls/buns,39.48,38
+26240,Carlos Soltero,12/19/2009,Critical,other vegetables,3.7,39
+26791,Harold Engle,4/29/2011,Low,citrus fruit,11.29,45
+28836,Erica Bern,10/24/2010,High,whole milk,195.99,50
+28836,Erica Bern,10/24/2010,High,frankfurter,172.99,7
+28995,Hilary Holden,5/12/2010,High,coffee,30.98,9
+28995,Hilary Holden,5/12/2010,High,ham,19.98,34
+29121,Jack Lebron,4/11/2010,Medium,canned beer,125.99,31
+29319,Filia McAdams,1/24/2009,Low,canned beer,238.4,30
+29319,Filia McAdams,1/24/2009,Low,canned beer,199.99,21
+29382,Greg Guthrie,11/17/2010,High,pip fruit,5.68,42
+29382,Greg Guthrie,11/17/2010,High,pork,19.98,34
+29445,Harold Engle,9/29/2010,High,soap,90.97,28
+29762,Philip Brown,8/3/2010,Critical,pip fruit,1.48,15
+30048,Helen Abelman,6/13/2011,Medium,beef,180.98,44
+30243,Hilary Holden,5/5/2010,Critical,sausage,60.22,44
+30243,Hilary Holden,5/5/2010,Critical,frozen chicken,199.99,21
+30372,Christopher Schild,8/30/2010,High,soda,12.22,1
+30499,Carlos Soltero,10/30/2012,High,tropical fruit,5.98,16
+30499,Carlos Soltero,10/30/2012,High,other vegetables,5.84,33
+32199,Erica Bern,7/15/2009,High,beef,4.91,40
+32199,Erica Bern,7/15/2009,High,meat,3499.99,1
+32199,Erica Bern,7/15/2009,High,meat,5.84,8
+32327,Erica Bern,8/7/2012,Low,bottled water,550.98,45
+32676,Joy Smith,2/1/2009,Critical,rolls/buns,45.19,37
+32835,Joy Smith,7/7/2012,Medium,pastry,45.99,15
+32869,Christopher Schild,3/27/2009,Medium,pork,8.12,41
+32869,Christopher Schild,3/27/2009,Medium,pip fruit,51.65,49
+32869,Christopher Schild,3/27/2009,Medium,beef,6.68,2
+32869,Christopher Schild,3/27/2009,Medium,beef,175.99,39
+33763,Evan Minnotte,9/23/2010,Not Specified,rolls/buns,499.99,23
+34048,Christopher Schild,3/28/2011,Low,citrus fruit,22.23,1
+34275,Greg Guthrie,7/1/2009,Low,meat,4.84,27
+34438,Harold Engle,12/11/2010,High,beverages,20.15,28
+34880,Philip Brown,9/16/2009,High,beef,6.48,44
+34978,Carlos Soltero,2/4/2011,High,ham,3.52,49
+35141,Jennifer Braxton,9/11/2010,Medium,hamburger meat,67.28,29
+35300,Dan Reichenbach,3/2/2010,Medium,beef,2.89,10
+35300,Dan Reichenbach,3/2/2010,Medium,beef,41.32,35
+35300,Dan Reichenbach,3/2/2010,Medium,root vegetables,8.95,13
+35558,Carlos Soltero,9/15/2009,Critical,citrus fruit,13.79,2
+36293,Carlos Soltero,12/30/2010,Medium,yogurt,100.98,13
+36293,Carlos Soltero,12/30/2010,Medium,tropical fruit,6.48,25
+36516,Giulietta Baptist,7/25/2011,Medium,frankfurter,100.98,9
+36677,Jack Lebron,12/23/2009,Low,beef,599.99,38
+37185,Guy Armstrong,10/31/2012,High,shopping bags,2.6,8
+37888,Hilary Holden,12/22/2009,Critical,canned beer,20.98,31
+38310,Jack Lebron,4/14/2012,High,rolls/buns,3.48,4
+40327,Erica Bern,5/13/2011,Medium,other vegetables,3.69,42
+40327,Erica Bern,5/13/2011,Medium,hamburger meat,4.28,36
+40480,Harold Engle,12/7/2011,Critical,hamburger meat,420.98,19
+40480,Harold Engle,12/7/2011,Critical,frankfurter,26.48,50
+40800,Jim Sink,12/4/2010,Not Specified,bottled beer,5.68,18
+40835,Jennifer Braxton,11/24/2009,High,tropical fruit,15.01,26
+40835,Jennifer Braxton,11/24/2009,High,soda,40.48,14
+40835,Jennifer Braxton,11/24/2009,High,frankfurter,12.28,1
+40871,Joy Smith,9/13/2011,Not Specified,chicken,8.85,32
+40871,Joy Smith,9/13/2011,Not Specified,coffee,110.98,18
+41570,Harold Engle,12/3/2010,Not Specified,whole milk,104.85,24
+41991,Philip Brown,12/18/2011,Low,margarine,50.98,36
+41991,Philip Brown,12/18/2011,Low,tropical fruit,14.58,35
+41991,Philip Brown,12/18/2011,Low,meat,45.98,18
+42400,Giulietta Baptist,8/9/2012,Low,cream cheese ,19.98,44
+42400,Giulietta Baptist,8/9/2012,Low,newspapers,10.97,41
+42754,Paul Gonzalez,8/24/2010,Critical,rolls/buns,10.98,31
+42918,Logan Haushalter,5/22/2011,High,citrus fruit,14.27,46
+42918,Logan Haushalter,5/22/2011,High,whole milk,9.49,46
+42944,Filia McAdams,11/18/2012,Critical,frankfurter,216.6,43
+44037,Carlos Soltero,6/28/2012,High,ham,22.23,39
+44037,Carlos Soltero,6/28/2012,High,frankfurter,55.99,38
+44387,Erica Bern,2/4/2009,Low,sausage,29.89,50
+44387,Erica Bern,2/4/2009,Low,domestic eggs,8.34,20
+44576,Greg Guthrie,12/25/2009,Not Specified,whole milk,124.49,38
+45601,Dan Reichenbach,9/26/2011,High,rolls/buns,19.98,47
+45606,Jim Sink,9/22/2011,Medium,whole milk,8.75,38
+45606,Jim Sink,9/22/2011,Medium,sausage,5.85,24
+46119,Carlos Soltero,2/15/2009,Critical,curd,3.8,23
+46119,Carlos Soltero,2/15/2009,Critical,bottled water,7.98,20
+46119,Carlos Soltero,2/15/2009,Critical,beef,417.4,46
+46756,Chuck Magee,10/11/2009,Medium,frankfurter,7.28,3
+47714,Philip Brown,3/10/2011,Medium,chicken,5.53,30
+47846,Hilary Holden,8/11/2012,High,sausage,10.68,5
+47846,Hilary Holden,8/11/2012,High,pork,110.98,25
+47846,Hilary Holden,8/11/2012,High,yogurt,105.98,50
+47846,Hilary Holden,8/11/2012,High,whole milk,6.68,37
+47876,Greg Guthrie,12/25/2009,High,frankfurter,46.89,8
+48067,Jennifer Braxton,6/29/2012,Low,beef,125.99,31
+48067,Jennifer Braxton,6/29/2012,Low,pip fruit,195.99,24
+48199,Erica Bern,1/18/2009,Not Specified,sausage,15.74,47
+49029,Jim Sink,5/20/2012,High,pastry,195.99,49
+49216,Noah Childs,3/19/2009,High,chicken,24.92,11
+49216,Noah Childs,3/19/2009,High,root vegetables,270.97,9
+49216,Noah Childs,3/19/2009,High,whole milk,12.28,29
+49990,Evan Minnotte,9/5/2009,Not Specified,detergent,442.14,11
+50081,Guy Armstrong,11/3/2009,Not Specified,rolls/buns,70.98,7
+50404,Guy Armstrong,3/26/2011,High,house keeping products,210.55,18
+50404,Guy Armstrong,3/26/2011,High,yogurt,182.55,10
+50784,Chuck Magee,2/10/2012,High,tropical fruit,32.98,20
+50850,Greg Guthrie,5/6/2009,Critical,tropical fruit,40.98,37
+50850,Greg Guthrie,5/6/2009,Critical,curd,417.4,2
+51075,Carlos Soltero,11/23/2010,Not Specified,beef,35.99,43
+51461,Greg Guthrie,2/10/2011,Not Specified,whole milk,19.99,43
+51558,Greg Guthrie,3/29/2010,Not Specified,pork,6.68,34
+51558,Greg Guthrie,3/29/2010,Not Specified,other vegetables,85.29,47
+52130,Carlos Soltero,9/5/2012,Low,rolls/buns,4.13,13
+52130,Carlos Soltero,9/5/2012,Low,frankfurter,40.89,36
+52482,Greg Guthrie,1/31/2011,Critical,yogurt,40.98,21
+52482,Greg Guthrie,1/31/2011,Critical,whole milk,22.23,30
+53410,Christopher Schild,8/7/2009,Critical,bottled water,14.81,44
+53477,Joy Smith,5/5/2012,High,frankfurter,95.95,32
+53477,Joy Smith,5/5/2012,High,rolls/buns,300.98,27
+53477,Joy Smith,5/5/2012,High,whole milk,37.94,36
+53477,Joy Smith,5/5/2012,High,rolls/buns,161.55,28
+53508,Joy Smith,11/10/2009,High,chicken,80.98,13
+53508,Joy Smith,11/10/2009,High,tropical fruit,13.99,25
+53508,Joy Smith,11/10/2009,High,sausage,15.04,4
+53703,Guy Armstrong,6/14/2010,Not Specified,sausage,140.85,14
+54115,Brian Moss,1/7/2012,Low,frankfurter,4.37,24
+54115,Brian Moss,1/7/2012,Low,UHT-milk,4.98,39
+54437,Logan Haushalter,12/19/2010,High,rolls/buns,55.99,15
+54501,Guy Armstrong,11/29/2012,Critical,canned beer,65.99,36
+54501,Guy Armstrong,11/29/2012,Critical,yogurt,13.99,16
+54501,Guy Armstrong,11/29/2012,Critical,whipped/sour cream,20.34,38
+54753,Christopher Schild,4/18/2009,Medium,rolls/buns,155.99,36
+55138,Jim Sink,9/24/2009,High,rolls/buns,48.91,22
+55271,Carlos Soltero,3/11/2011,Medium,beverages,100.89,16
+55331,Jennifer Braxton,12/13/2010,High,rolls/buns,3.69,13
+55618,Brian Moss,1/21/2012,Medium,rolls/buns,35.99,48
+56645,Harold Engle,1/6/2012,Low,bottled beer,30.98,46
+56645,Harold Engle,1/6/2012,Low,citrus fruit,348.21,42
+56803,Carlos Soltero,12/10/2009,Not Specified,bottled water,6.48,42
+57159,Hilary Holden,2/12/2010,Critical,pastry,280.98,17
+57159,Hilary Holden,2/12/2010,Critical,domestic eggs,9.99,42
+57507,Logan Haushalter,6/26/2009,Critical,beef,15.01,10
+57922,Guy Armstrong,2/8/2011,Critical,spread cheese,6.84,50
+58117,Erica Bern,2/20/2011,Critical,tropical fruit,3.14,42
+58278,Logan Haushalter,9/10/2012,High,packaged fruit/vegetables,99.23,37
+58278,Logan Haushalter,9/10/2012,High,whole milk,85.99,4
+58502,Harold Engle,2/12/2010,Critical,meat,226.67,23
+58788,Christopher Schild,2/1/2010,Low,onions,30.98,31
+58947,Helen Abelman,9/26/2011,Not Specified,frankfurter,8.01,48
+58947,Helen Abelman,9/26/2011,Not Specified,beef,4.98,28
+59074,Jack Lebron,8/12/2010,Low,beef,14.98,37
+59233,Jack Lebron,8/20/2010,High,sausage,100.98,3
+59233,Jack Lebron,8/20/2010,High,chicken,14.34,30
+59425,Giulietta Baptist,5/17/2012,Medium,canned beer,83.1,24
+59425,Giulietta Baptist,5/17/2012,Medium,sausage,37.94,46
+59750,Jim Sink,7/9/2010,Low,tropical fruit,6.48,34
+35,Julie Creighton,10/22/2011,Not Specified,frankfurter,9.11,30
+35,Julie Creighton,10/22/2011,Not Specified,sausage,155.99,14
+294,Sanjit Chand,7/15/2010,Medium,beef,193.17,35
+450,Matt Collins,3/4/2011,Not Specified,tropical fruit,34.58,29
+450,Matt Collins,3/4/2011,Not Specified,yogurt,15.7,35
+1028,Matt Collins,1/5/2009,High,frankfurter,28.48,6
+1028,Matt Collins,1/5/2009,High,bottled beer,205.99,11
+1314,Justin Knight,5/12/2009,Medium,grapes,9.27,4
+2279,Rob Haberlin,2/22/2010,Medium,beverages,90.98,49
+2279,Rob Haberlin,2/22/2010,Medium,curd,20.98,39
+2465,Rob Haberlin,6/23/2011,Critical,ice cream,39.48,28
+2530,Rob Haberlin,3/20/2009,Medium,sausage,2.61,9
+2883,Rob Haberlin,1/22/2011,Low,other vegetables,64.98,34
+3362,Christina Vanderzanden,7/28/2011,Low,dessert,40.98,40
+3362,Christina Vanderzanden,7/28/2011,Low,decalcifier,15.14,50
+5318,Matt Collins,4/3/2010,High,canned beer,131.12,8
+5318,Matt Collins,4/3/2010,High,coffee,200.99,29
+5988,Sanjit Chand,11/21/2010,Not Specified,berries,499.99,40
+6115,Matt Collins,9/11/2010,Medium,pork,17.78,25
+6337,Justin Knight,8/31/2011,Not Specified,frankfurter,70.71,48
+6337,Justin Knight,8/31/2011,Not Specified,pork,376.13,1
+6434,Rob Haberlin,6/7/2009,High,frankfurter,4.76,13
+7136,Lena Cacioppo,3/22/2009,High,frozen dessert,39.48,17
+7136,Lena Cacioppo,3/22/2009,High,chicken,4.91,9
+7489,Kimberly Carter,9/30/2010,Critical,vinegar,180.98,38
+7968,Gene Hale,9/15/2010,Low,rolls/buns,150.98,10
+8227,Christina Vanderzanden,1/10/2010,Not Specified,whole milk,4.77,32
+9123,Matt Collins,6/26/2010,Critical,pork,14.03,27
+9792,Sally Knutson,7/23/2011,Low,rolls/buns,5.4,14
+9860,Kimberly Carter,10/10/2010,Critical,grapes,7.28,43
+10310,Christina Vanderzanden,2/5/2009,Low,frankfurter,2.88,48
+10310,Christina Vanderzanden,2/5/2009,Low,finished products,195.99,6
+10369,Kimberly Carter,11/9/2011,Low,onions,5.78,4
+10369,Kimberly Carter,11/9/2011,Low,tropical fruit,28.48,23
+10692,Rob Haberlin,7/26/2009,Low,other vegetables,3.57,26
+10692,Rob Haberlin,7/26/2009,Low,ham,200.99,48
+10692,Rob Haberlin,7/26/2009,Low,other vegetables,195.99,8
+11553,Justin Knight,4/18/2009,Medium,curd,52.99,28
+11553,Justin Knight,4/18/2009,Medium,sausage,100.98,8
+11553,Justin Knight,4/18/2009,Medium,canned beer,85.99,20
+11776,Christina Vanderzanden,2/24/2012,Low,ham,1.26,40
+11782,Marina Lichtenstein,7/28/2012,Low,packaged fruit/vegetables,4.98,46
+11782,Marina Lichtenstein,7/28/2012,Low,meat,66.99,27
+12199,Justin Knight,12/14/2011,Low,whole milk,6.54,2
+12199,Justin Knight,12/14/2011,Low,canned beer,155.06,50
+14275,Gene Hale,6/13/2010,Low,chicken,2.08,20
+14275,Gene Hale,6/13/2010,Low,rolls/buns,160.98,4
+14535,Gene Hale,10/1/2010,Not Specified,pet care,11.29,22
+15329,Rob Haberlin,4/27/2012,High,root vegetables,29.89,34
+15621,Gene Hale,9/24/2011,Critical,pastry,1.68,18
+15621,Gene Hale,9/24/2011,Critical,frankfurter,28.28,39
+17826,Michelle Arnett,6/30/2012,High,chicken,3.89,18
+17926,Sally Knutson,11/10/2011,Critical,frozen dessert,15.31,37
+18247,Rob Haberlin,11/5/2009,Not Specified,citrus fruit,7.59,20
+18471,Justin Knight,2/19/2009,Not Specified,sausage,5.98,37
+18471,Justin Knight,2/19/2009,Not Specified,root vegetables,2.08,4
+18471,Justin Knight,2/19/2009,Not Specified,root vegetables,5.98,29
+19813,Lena Cacioppo,3/2/2010,Critical,bottled beer,45.99,29
+20322,Seth Vernon,6/28/2009,Critical,frankfurter,3.58,46
+20322,Seth Vernon,6/28/2009,Critical,root vegetables,100.98,46
+20322,Seth Vernon,6/28/2009,Critical,berries,5.78,15
+20422,Gene Hale,1/26/2009,High,hamburger meat,14.34,30
+20448,Luke Weiss,8/2/2011,Critical,tropical fruit,3.69,23
+21892,Justin Knight,7/4/2010,High,frankfurter,4.91,6
+22980,Rob Haberlin,10/1/2012,Not Specified,frankfurter,12.44,17
+23907,Julie Creighton,7/14/2011,Not Specified,soda,65.99,7
+24064,Sanjit Chand,7/25/2010,Medium,ice cream,297.64,23
+24132,Justin Knight,7/6/2009,Low,beef,6.75,4
+24132,Justin Knight,7/6/2009,Low,whole milk,7.1,46
+24132,Justin Knight,7/6/2009,Low,pork,20.95,22
+24132,Justin Knight,7/6/2009,Low,whole milk,39.06,31
+24132,Justin Knight,7/6/2009,Low,bottled beer,3.52,12
+24132,Justin Knight,7/6/2009,Low,pork,15.51,3
+24576,Luke Weiss,12/11/2012,Not Specified,root vegetables,20.99,29
+24576,Luke Weiss,12/11/2012,Not Specified,canned beer,14.58,10
+25248,Christina Vanderzanden,12/1/2011,Medium,citrus fruit,8.33,33
+25248,Christina Vanderzanden,12/1/2011,Medium,pip fruit,48.91,26
+25475,Lena Cacioppo,4/4/2009,Critical,root vegetables,6.48,49
+26978,Seth Vernon,6/25/2010,Medium,tropical fruit,18.97,2
+27105,Sanjit Chand,2/16/2011,Not Specified,beef,5.98,37
+27105,Sanjit Chand,2/16/2011,Not Specified,chicken,10.4,2
+28068,Julie Creighton,8/26/2010,Low,citrus fruit,27.48,23
+28802,Sanjit Chand,11/4/2010,High,meat,17.67,23
+28802,Sanjit Chand,11/4/2010,High,cream cheese ,8.34,36
+28802,Sanjit Chand,11/4/2010,High,citrus fruit,205.99,22
+28839,Anthony Johnson,4/28/2009,Low,specialty bar,3.34,30
+29252,Anthony Johnson,8/6/2009,Low,meat,6.48,9
+31941,Kimberly Carter,3/18/2009,Medium,citrus fruit,78.65,32
+31941,Kimberly Carter,3/18/2009,Medium,frankfurter,6.48,7
+32418,Marina Lichtenstein,1/5/2009,Not Specified,citrus fruit,243.98,5
+34241,Sanjit Chand,10/8/2012,Low,turkey,52.71,4
+34816,Sally Knutson,11/5/2010,Not Specified,citrus fruit,41.71,29
+34816,Sally Knutson,11/5/2010,Not Specified,sausage,60.98,43
+35011,Luke Weiss,12/10/2012,Not Specified,newspapers,10.98,14
+36068,Anthony Johnson,2/5/2009,Critical,whole milk,279.81,23
+36930,Michelle Arnett,9/28/2011,Medium,yogurt,85.99,34
+37315,Luke Weiss,6/5/2012,Low,yogurt,4.28,43
+37315,Luke Weiss,6/5/2012,Low,bottled water,175.99,31
+37925,Luke Weiss,9/26/2010,Medium,berries,90.97,46
+37925,Luke Weiss,9/26/2010,Medium,packaged fruit/vegetables,65.99,31
+38021,Rob Haberlin,1/21/2009,Medium,frankfurter,30.44,46
+38336,Julie Creighton,10/5/2012,Critical,nuts/prunes,6.75,14
+38336,Julie Creighton,10/5/2012,Critical,citrus fruit,10.97,31
+38565,Justin Knight,3/25/2009,Critical,beef,10.64,20
+39783,Sally Knutson,9/20/2012,Not Specified,whole milk,4.06,19
+39783,Sally Knutson,9/20/2012,Not Specified,other vegetables,8.85,31
+39783,Sally Knutson,9/20/2012,Not Specified,beef,3.15,29
+42500,Michelle Arnett,2/5/2010,Not Specified,fish,48.92,39
+42500,Michelle Arnett,2/5/2010,Not Specified,other vegetables,8.69,2
+44162,Julie Creighton,3/19/2010,High,tropical fruit,10.98,46
+44256,Sally Knutson,11/19/2011,Low,coffee,8.01,39
+44256,Sally Knutson,11/19/2011,Low,sausage,6.48,17
+44256,Sally Knutson,11/19/2011,Low,meat,40.97,49
+44320,Sally Knutson,4/29/2009,Medium,chicken,154.13,49
+45377,Kimberly Carter,4/3/2011,Low,berries,2.08,47
+47367,Rob Haberlin,4/16/2011,Medium,frozen meals,3.8,7
+47367,Rob Haberlin,4/16/2011,Medium,whipped/sour cream,3.69,6
+47750,Sally Knutson,6/15/2010,Low,beef,2.88,37
+47750,Sally Knutson,6/15/2010,Low,chicken,25.38,43
+48388,Marina Lichtenstein,8/9/2009,High,chicken,5.74,3
+49059,Christina DeMoss,9/20/2009,Medium,beef,2.89,48
+49059,Christina DeMoss,9/20/2009,Medium,packaged fruit/vegetables,48.91,5
+49510,Luke Weiss,3/20/2012,Critical,sugar,2.58,16
+49634,Sally Knutson,3/23/2012,Not Specified,frankfurter,2.88,45
+50210,Michelle Arnett,7/19/2010,Low,berries,3.75,47
+50210,Michelle Arnett,7/19/2010,Low,bottled water,1.86,15
+50503,Sanjit Chand,11/21/2012,Medium,sausage,65.99,28
+50816,Anthony Johnson,3/27/2009,High,whole milk,11.97,25
+50816,Anthony Johnson,3/27/2009,High,ice cream,28.53,26
+50816,Anthony Johnson,3/27/2009,High,frankfurter,15.28,6
+51073,Luke Weiss,5/14/2010,Not Specified,root vegetables,136.98,17
+51073,Luke Weiss,5/14/2010,Not Specified,sausage,30.93,49
+51584,Rob Haberlin,10/17/2010,Critical,sausage,110.98,48
+51879,Monica Federle,8/24/2010,Not Specified,beef,51.94,26
+51879,Monica Federle,8/24/2010,Not Specified,fruit/vegetable juice,19.98,46
+52288,Kimberly Carter,8/10/2011,High,sugar,78.69,19
+53190,Michelle Arnett,9/24/2009,Medium,berries,28.53,10
+53190,Michelle Arnett,9/24/2009,Medium,yogurt,65.99,9
+53536,Sanjit Chand,10/30/2012,High,pork,22.98,35
+53536,Sanjit Chand,10/30/2012,High,bottled beer,179.29,5
+53572,Marina Lichtenstein,5/7/2010,Medium,curd,11.09,17
+53825,Joy Smith,4/9/2011,Low,beef,48.04,36
+53863,Christina DeMoss,6/3/2010,High,pork,161.55,46
+54119,Monica Federle,5/22/2010,Medium,white bread,5.81,45
+54119,Monica Federle,5/22/2010,Medium,grapes,29.74,4
+56224,Michelle Arnett,10/25/2012,Medium,potato products,3.81,35
+56224,Michelle Arnett,10/25/2012,Medium,root vegetables,95.95,32
+56224,Michelle Arnett,10/25/2012,Medium,chicken,7.89,46
+56224,Michelle Arnett,10/25/2012,Medium,chicken,124.49,9
+56293,Michelle Arnett,1/5/2010,Not Specified,fish,19.99,34
+56293,Michelle Arnett,1/5/2010,Not Specified,canned beer,16.91,44
+57959,Sally Knutson,12/30/2011,Medium,other vegetables,5.81,40
+57959,Sally Knutson,12/30/2011,Medium,chicken,26.31,48
+58500,Christina DeMoss,2/14/2011,Low,other vegetables,110.99,17
+59584,Joy Smith,5/28/2010,Medium,tropical fruit,100.98,3
+59584,Joy Smith,5/28/2010,Medium,whole milk,150.98,7
+261,Sonia Sunley,6/28/2010,Medium,beef,140.99,47
+928,Anthony O'Donnell,3/1/2011,Low,sausage,59.98,21
+928,Anthony O'Donnell,3/1/2011,Low,whole milk,14.58,26
+1282,Emily Grady,2/27/2012,Not Specified,rolls/buns,31.78,26
+1282,Emily Grady,2/27/2012,Not Specified,citrus fruit,2.78,10
+1856,Alex Avila,3/19/2012,Not Specified,whole milk,60.98,24
+1856,Alex Avila,3/19/2012,Not Specified,pastry,125.99,43
+1856,Alex Avila,3/19/2012,Not Specified,tropical fruit,125.99,44
+1925,Brian Moss,3/4/2012,Critical,sliced cheese,276.2,7
+2848,Emily Grady,3/9/2012,Critical,soda,43.31,35
+2848,Emily Grady,3/9/2012,Critical,ham,125.99,8
+5504,Anna Andreadi,1/5/2010,High,salty snack,5.78,6
+5504,Anna Andreadi,1/5/2010,High,whole milk,45.99,15
+8390,Emily Grady,4/21/2012,Medium,root vegetables,30.98,24
+8545,Barbara Fisher,6/17/2009,Low,soda,4.13,25
+8545,Barbara Fisher,6/17/2009,Low,curd,130.98,24
+9573,Emily Grady,6/13/2012,Medium,bottled water,3.14,41
+9892,Kelly Williams,7/16/2012,Medium,packaged fruit/vegetables,27.18,50
+10048,Sonia Sunley,5/15/2009,Not Specified,tropical fruit,73.98,46
+10048,Sonia Sunley,5/15/2009,Not Specified,ham,3.68,21
+10144,Sonia Sunley,1/2/2011,Critical,pork,355.98,16
+10144,Sonia Sunley,1/2/2011,Critical,beverages,160.98,1
+10144,Sonia Sunley,1/2/2011,Critical,sausage,280.98,24
+10432,Sonia Sunley,1/5/2012,Low,sausage,179.99,13
+10661,Jocasta Rupert,1/23/2009,Not Specified,root vegetables,6.84,18
+12806,Sonia Sunley,12/24/2011,Not Specified,whole milk,35.89,20
+13158,Kelly Williams,11/20/2012,Critical,frankfurter,6.75,26
+13507,Anna Andreadi,12/29/2012,Medium,soda,6.78,27
+14375,Rick Duston,1/31/2010,Medium,soda,5.78,7
+14627,Sonia Sunley,2/4/2009,Medium,frankfurter,14.48,47
+14852,Angele Hood,12/24/2011,Medium,berries,420.98,9
+16230,Sonia Sunley,2/27/2010,Low,canned beer,7.31,2
+16230,Sonia Sunley,2/27/2010,Low,frankfurter,130.98,27
+16230,Sonia Sunley,2/27/2010,Low,frankfurter,48.91,15
+16230,Sonia Sunley,2/27/2010,Low,berries,111.03,40
+19074,Sonia Sunley,6/25/2012,Critical,frankfurter,208.16,17
+20194,Dennis Bolton,3/13/2012,High,newspapers,20.24,10
+21024,Stewart Carmichael,12/28/2010,Medium,frozen fish,5.84,34
+21509,Dennis Bolton,7/3/2012,High,tropical fruit,3.69,13
+21856,Sonia Sunley,4/5/2012,Not Specified,beef,3.69,47
+21856,Sonia Sunley,4/5/2012,Not Specified,rolls/buns,3.14,26
+22119,Stewart Carmichael,7/24/2009,Low,specialty chocolate,49.43,20
+22534,Kelly Williams,7/18/2011,Medium,sparkling wine,83.93,3
+22629,Sonia Sunley,4/15/2010,Low,citrus fruit,73.98,5
+23011,Kelly Williams,6/15/2010,Low,onions,10.01,1
+24070,Sonia Sunley,3/15/2011,High,whole milk,4.91,36
+24070,Sonia Sunley,3/15/2011,High,photo/film,140.81,3
+24070,Sonia Sunley,3/15/2011,High,hamburger meat,5.58,48
+24737,Sonia Sunley,12/6/2009,High,other vegetables,180.98,3
+24737,Sonia Sunley,12/6/2009,High,whole milk,6.48,26
+26373,Anna Andreadi,7/22/2010,Medium,pork,40.98,7
+26978,Seth Vernon,6/25/2010,Medium,tropical fruit,599.99,46
+26978,Seth Vernon,6/25/2010,Medium,chicken,40.99,49
+26978,Seth Vernon,6/25/2010,Medium,other vegetables,15.31,47
+27174,Alex Avila,10/8/2011,Critical,sausage,35.99,17
+27876,Sarah Foster,9/7/2010,Low,whole milk,16.99,44
+28582,Alex Avila,1/22/2012,Not Specified,rolls/buns,39.24,40
+28582,Alex Avila,1/22/2012,Not Specified,hygiene articles,8.01,45
+28868,Anna Andreadi,4/5/2012,High,ice cream,6.48,30
+29857,Angele Hood,12/12/2009,Medium,curd,140.98,41
+29921,Sonia Sunley,3/23/2012,Medium,whole milk,120.98,33
+30659,Kelly Williams,9/13/2011,Critical,onions,85.99,45
+30660,Anna Andreadi,9/5/2012,Critical,finished products,71.37,16
+30883,Alex Avila,8/21/2010,Medium,salt,6.98,30
+32871,Jim Karlsson,10/26/2012,High,tropical fruit,20.97,42
+33600,Sonia Sunley,10/6/2010,Low,other vegetables,4.28,42
+33632,Alex Avila,3/13/2010,Critical,chocolate,115.99,8
+33665,Lisa DeCherney,5/25/2011,Low,ice cream,284.98,45
+34434,Barbara Fisher,5/9/2011,Not Specified,tropical fruit,1.8,16
+34434,Barbara Fisher,5/9/2011,Not Specified,frankfurter,4.98,23
+34753,Barbara Fisher,1/18/2010,Not Specified,butter,20.99,7
+35364,Lisa DeCherney,12/12/2009,Critical,other vegetables,4.28,16
+35364,Lisa DeCherney,12/12/2009,Critical,tropical fruit,376.13,29
+35364,Lisa DeCherney,12/12/2009,Critical,citrus fruit,424.21,37
+35364,Lisa DeCherney,12/12/2009,Critical,UHT-milk,195.99,8
+35812,Barbara Fisher,1/22/2010,Critical,beef,113.98,24
+35812,Barbara Fisher,1/22/2010,Critical,curd,30.73,2
+35812,Barbara Fisher,1/22/2010,Critical,citrus fruit,47.9,19
+37063,Alex Avila,12/9/2012,Not Specified,yogurt,17.67,50
+37281,Roy Skaria,8/28/2009,Medium,bottled beer,20.99,25
+37798,Angele Hood,11/4/2012,High,grapes,291.73,23
+38017,Seth Vernon,7/20/2010,Low,pork,4.98,26
+38017,Seth Vernon,7/20/2010,Low,sausage,125.99,27
+38272,Sarah Foster,11/15/2011,Critical,frankfurter,1.88,39
+39301,Kelly Williams,3/22/2009,Medium,artif. sweetener,152.48,16
