@@ -68,5 +68,5 @@ tabPanel("Frequency",
              )
            ),
   
-  tabPanel("Behaviour")
+  tabPanel("Behaviour",basicPage(plotOutput("svmGraph")))
 )
