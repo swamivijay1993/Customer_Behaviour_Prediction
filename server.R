@@ -1,12 +1,13 @@
 library(shiny)
+library(ggplot2)
 
 server=function(input, output) {
   
-data <- read.csv(file="data.csv", header = T, sep=",")
+dataset <- read.csv(file="data.csv", header = T, sep=",")
   
 #service for data navigation tab  
   output$contents = renderDataTable({
-    data
+    dataset
   })
   
 #service for plot navigation tab
@@ -14,12 +15,12 @@ data <- read.csv(file="data.csv", header = T, sep=",")
   
 
   output$mainplot <- renderPlot({
-        ggplot(data=data,aes_string(input$x_axis,input$y_axis)) +
+        ggplot(data=dataset,aes_string(input$x_axis,input$y_axis)) +
           geom_point()
       })
   
   output$innerplot <- renderPlot({
-    ggplot(data=data, aes_string(input$x_axis,input$y_axis)) +
+    ggplot(data=dataset, aes_string(input$x_axis,input$y_axis)) +
       geom_point() +
       coord_cartesian(xlim=range$x,ylim=range$y)
   })

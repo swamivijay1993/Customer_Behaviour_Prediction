@@ -2,7 +2,7 @@ library(shiny)
 library(Cairo)
 
 #load the data in this file to access the name of various columns
-data <- read.csv(file = "data.csv", header=T, sep=",")
+dataset <- read.csv(file = "data.csv", header=T, sep=",")
 
 shinyUI=navbarPage("Predictive Analysis",
                 
@@ -22,7 +22,7 @@ shinyUI=navbarPage("Predictive Analysis",
              sidebarLayout(
                sidebarPanel(
                  sliderInput(inputId = "no_of_levels",label = "Number of elements",min=1,
-                             max = length(levels(data$Product.Name)),value=3),
+                             max = length(levels(dataset$Product.Name)),value=3),
                  selectInput(inputId = "x_axis",label = "X-Axis",choices = c("Product.Name","Customer.Name")),
                  selectInput(inputId = "y_axis",label =  "Y-Axis",choices = c("Quantity","Unit.Price"))
                ),
