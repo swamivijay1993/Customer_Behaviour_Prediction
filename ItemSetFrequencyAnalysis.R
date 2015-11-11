@@ -14,7 +14,7 @@ library("arules")
 library(e1071)
 
 #Load 
-dataset<-read.csv(file="Retailer Transaction Data.csv",header=T,sep=",")
+dataset<-read.csv(file="data.csv",header=T,sep=",")
 
 subset<-dataset[c(2,5)]
 
