@@ -4,6 +4,7 @@
 #					1. gdata  - To read CSV files
 #					2. arules - For manipulating and analyzing transaction data and patterns
 #							  - Also provides interfaces to C implementations of the association mining algorithms Apriori and Eclat
+#					3. e1071  - Library for modelling svm.
 #About Dataset:
 #				Total Training Sets = 983
 #				Total Products		= 98
@@ -11,10 +12,10 @@
 #Load the libraries
 library("gdata")
 library("arules")
-library(e1071)
+library("e1071")
 
 #Load 
-dataset<-read.csv(file="Retailer Transaction Data.csv",header=T,sep=",")
+dataset<-read.csv(file="data.csv",header=T,sep=",")
 
 subset<-dataset[c(2,5)]
 
@@ -28,7 +29,7 @@ trns<-as(aggSubSet,"transactions")
 
 Rules<-apriori(trns,parameter=list(supp=0.05,conf=0.6,target="rules",minlen=2))
 ItemSet<-inspect(Rules[1:100])
-write.csv(ItemSet, file= "ItenSet.csv")
+#write.csv(ItemSet, file= "ItenSet.csv")
 #create an item frequency bar plot for inspecting the item frequency distribution of products sold
 #Top 10 items being purchased
 itemFrequencyPlot(trns, topN = 10, type="absolute",xlab="Most Frequent Item (MFI)",ylab="Frequency",main="Top 10 Frequent Items")
@@ -36,11 +37,11 @@ itemFrequencyPlot(trns, topN = 10, type="absolute",xlab="Most Frequent Item (MFI
 ########################################################################################################
 ########################################################################################################
 ################ Analyzing purchase of Most frequent Item using SVM ################################
-#######################Item Analyzed if Frankfurter ####################################################
+#######################Item Analyzed is Frankfurter ####################################################
 
 svmSubset<-dataset[c(3,5,6,7)]
 
-svmSubset <- svmSubset[svmSubset$Product.Name =="frankfurter",]
+svmSubset <- svmSubset[svmSubset$Product.Name =="sausage",]
 
 svmSubset<-svmSubset[c(1,3,4)]
 
