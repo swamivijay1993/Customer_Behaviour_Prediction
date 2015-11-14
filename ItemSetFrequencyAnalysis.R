@@ -34,6 +34,19 @@ ItemSet<-inspect(Rules[1:100])
 #Top 10 items being purchased
 itemFrequencyPlot(trns, topN = 10, type="absolute",xlab="Most Frequent Item (MFI)",ylab="Frequency",main="Top 10 Frequent Items")
 
+
+#Compare Item Frequencies
+#Transactions of the item with large frequencr (frankfurter) with the average in dataset
+trns.high<-trns[trns %in% "frankfurter"]
+
+# plot with the averages of the population plotted as a line 
+#(for first 20 items)
+itemFrequencyPlot(trns.high[, 1:20],type="relative",population = trns[, 1:20])
+
+# plot lift ratio (frequency in x / frequency in population)
+# for items with a support of 20% in the population
+itemFrequencyPlot(trns.high, population = trns, support = 0.2, lift = TRUE, horiz = TRUE)
+
 ########################################################################################################
 ########################################################################################################
 ################ Analyzing purchase of Most frequent Item using SVM ################################
