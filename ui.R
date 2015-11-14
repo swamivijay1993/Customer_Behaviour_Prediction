@@ -1,3 +1,6 @@
+# Author : Swaminathan
+#purpose : User Interface
+
 library(shiny)
 library(Cairo)
 
@@ -21,8 +24,6 @@ shinyUI=navbarPage("Predictive Analysis",
              titlePanel("Analysis Graphs"),
              sidebarLayout(
                sidebarPanel(
-                 sliderInput(inputId = "no_of_levels",label = "Number of elements",min=1,
-                             max = length(levels(dataset$Product.Name)),value=3),
                  selectInput(inputId = "x_axis",label = "X-Axis",choices = c("Product.Name","Customer.Name")),
                  selectInput(inputId = "y_axis",label =  "Y-Axis",choices = c("Quantity","Unit.Price")), width = 3
                ),
