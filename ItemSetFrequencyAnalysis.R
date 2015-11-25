@@ -4,6 +4,7 @@
 #					1. gdata  - To read CSV files
 #					2. arules - For manipulating and analyzing transaction data and patterns
 #							  - Also provides interfaces to C implementations of the association mining algorithms Apriori and Eclat
+#					3. e1071  - Library for modelling svm.
 #About Dataset:
 #				Total Training Sets = 983
 #				Total Products		= 98
@@ -11,7 +12,7 @@
 #Load the libraries
 library("gdata")
 library("arules")
-library(e1071)
+library("e1071")
 
 #Load 
 dataset<-read.csv(file="data.csv",header=T,sep=",")
@@ -28,15 +29,28 @@ trns<-as(aggSubSet,"transactions")
 
 Rules<-apriori(trns,parameter=list(supp=0.05,conf=0.6,target="rules",minlen=2))
 ItemSet<-inspect(Rules[1:100])
-write.csv(ItemSet, file= "ItenSet.csv")
+#write.csv(ItemSet, file= "ItenSet.csv")
 #create an item frequency bar plot for inspecting the item frequency distribution of products sold
 #Top 10 items being purchased
 itemFrequencyPlot(trns, topN = 10, type="absolute",xlab="Most Frequent Item (MFI)",ylab="Frequency",main="Top 10 Frequent Items")
 
+#Compare Item Frequencies
+#Transactions of the item with large frequencr (frankfurter) 
+#with the average in dataset
+trns.high<-trns[trns %in% "frankfurter"]
+
+# plot with the averages of the population plotted as a line 
+#(for first 20 items)
+itemFrequencyPlot(trns.high[, 1:20],type="relative",population = trns[, 1:20])
+
+# plot lift ratio (frequency in x / frequency in population)
+# for items with a support of 20% in the population
+itemFrequencyPlot(trns.high, population = trns, support = 0.2,lift = TRUE, horiz = TRUE)
+
 ########################################################################################################
 ########################################################################################################
 ################ Analyzing purchase of Most frequent Item using SVM ################################
-#######################Item Analyzed if Frankfurter ####################################################
+#######################Item Analyzed is Frankfurter ####################################################
 
 svmSubset<-dataset[c(3,5,6,7)]
 
@@ -68,13 +82,15 @@ processData <- write.csv(svmSubset2, file= "newdata.csv")
 #processData<-read.csv(file="newdata.csv",header=T,sep="," )
 cleanData <- read.csv(file="newdata.csv",header=T,sep=",")
 cleanData <- cleanData[c(2,3,4)]
-#model<-svm(Order.Val ~ .,data=cleanData)
-model<-svm(Order.Val ~ .,data=cleanData,kernel="polynomial",degree=3,coef0=0.045,cost=1.3,tolerance=0.008,epsilon=1)
+model<-svm(Order.Val ~ .,data=cleanData)
+#model<-svm(Order.Val ~ .,data=cleanData,kernel="polynomial",degree=3,coef0=0.030,cost=1.3,tolerance=0.008)
+#model<-svm(Order.Val ~ .,data=cleanData,kernel="radial",gamma=0.01,cost=10)
 
-plot(model,cleanData)
+
+#plot(model,cleanData)
 
 #Now, next step is to do the prediction.
-#So we classify 70% of dataset as training dataset and 30% as testing dataset
+#So we classify 75% of dataset as training dataset and 25% as testing dataset
 
 #Create an index
 index<-1:nrow(cleanData)
@@ -96,10 +112,6 @@ prediction<-predict(model,testset[,-1])
 tab <-table(pred=prediction,true=testset[,1])
 accuracy <- ((tab[1]+tab[4])/sum(tab))*100
 
-#############
-#model<-svm(Order.Val ~ .,data=cleanData,kernel="polynomial")
-#model<-svm(Order.Val ~ .,data=cleanData,kernel="polynomial",degree=3,coef0=0.045)
-#model<-svm(Order.Val ~ .,data=cleanData,kernel="polynomial",degree=3,coef0=0.045,cost=1.3,tolerance=0.008,epsilon=1)
 accuracy
 
 
