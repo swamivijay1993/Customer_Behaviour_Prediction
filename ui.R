@@ -25,7 +25,9 @@ shinyUI=navbarPage("Predictive Analysis",
              sidebarLayout(
                sidebarPanel(
                  selectInput(inputId = "x_axis",label = "X-Axis",choices = c("Product.Name","Customer.Name")),
-                 selectInput(inputId = "y_axis",label =  "Y-Axis",choices = c("Quantity","Unit.Price")), width = 3
+                 selectInput(inputId = "y_axis",label =  "Y-Axis",choices = c("Quantity","Unit.Price")),
+                 
+                 width = 3
                ),
                mainPanel(
                         h5("Select and Double click to zoom"),
@@ -69,5 +71,10 @@ tabPanel("Frequency",
              )
            ),
   
-  tabPanel("Behaviour",basicPage(plotOutput("svmGraph")))
+  tabPanel("Behaviour",basicPage(plotOutput("svmGraph"))),
+  tabPanel("Details",basicPage(
+           tabsetPanel(
+             tabPanel("Products Relative to Frankfurter",plotOutput("avg")),
+             tabPanel("Accuracy",verbatimTextOutput("accuracy_text"))
+           )))
 )

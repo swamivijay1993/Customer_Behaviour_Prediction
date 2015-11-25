@@ -17,12 +17,18 @@ dataset <- read.csv(file="data.csv", header = T, sep=",")
   })
   
 #service for plot navigation tab
+
+ 
   range <- reactiveValues(x=NULL,y=NULL)
   
+  res_main_plot <- reactive({
+    ggplot(data=dataset,aes_string(input$x_axis,input$y_axis)) +
+      geom_point()
+  })
 
   output$mainplot <- renderPlot({
-        ggplot(data=dataset,aes_string(input$x_axis,input$y_axis)) +
-          geom_point()
+        temp <- res_main_plot()
+        temp
       })
   
   output$innerplot <- renderPlot({
@@ -30,6 +36,7 @@ dataset <- read.csv(file="data.csv", header = T, sep=",")
       geom_point() +
       coord_cartesian(xlim=range$x,ylim=range$y)
   })
+  
   
   observe({
     brush <- input$plotbrush
@@ -107,7 +114,8 @@ dataset <- read.csv(file="data.csv", header = T, sep=",")
   cleanData <- read.csv(file="newdata.csv",header=T,sep=",")
   cleanData <- cleanData[c(2,3,4)]
   #model<-svm(Order.Val ~ .,data=cleanData)
-  model<-svm(Order.Val ~ .,data=cleanData,kernel="polynomial",degree=3,coef0=0.045,cost=1.3,tolerance=0.008,epsilon=1)
+  model<-svm(Order.Val ~ .,data=cleanData,kernel="polynomial",
+             degree=3,coef0=0.045,cost=1.3,tolerance=0.008)
   
   plot(model,cleanData)
   
@@ -128,5 +136,32 @@ dataset <- read.csv(file="data.csv", header = T, sep=",")
     plot(model,trainingset)
   })
   
+  #server for details
+  
+  #Compare Item Frequencies
+  #Transactions of the item with large frequencr (frankfurter) 
+  #with the average in dataset
+  trns.high<-trns[trns %in% "frankfurter"]
+  
+  # plot with the averages of the population plotted as a line 
+  #(for first 20 items)
+  output$avg <- renderPlot({
+    itemFrequencyPlot(trns.high[, 1:20],type="relative",population = trns[, 1:20])
+  }) 
+  
+  #Prediction using the model which has been trained using the trainingset
+  prediction<-predict(model,testset[,-1])
+  
+  #Generate the confusion matrix to find the accuracy
+  tab <-table(pred=prediction,true=testset[,1])
+  accuracy <- ((tab[1]+tab[4])/sum(tab))*100
+  
+  #############
+  #model<-svm(Order.Val ~ .,data=cleanData,kernel="polynomial")
+  #model<-svm(Order.Val ~ .,data=cleanData,kernel="polynomial",degree=3,coef0=0.045)
+  #model<-svm(Order.Val ~ .,data=cleanData,kernel="polynomial",degree=3,coef0=0.045,cost=1.3,tolerance=0.008,epsilon=1)
+  output$accuracy_text <- renderText({
+    paste("the accuracy is",accuracy,"%",sep=" ")
+  })
 }
 
